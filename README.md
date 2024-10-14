@@ -5,7 +5,6 @@ This repository supports the paper [**"In progress of being written"**](https://
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/release/python-31014/)
 [![GitHub license](https://badgen.net/github/license/alvaro-francisco-gil/team-performance-study)](https://github.com/alvaro-francisco-gil/team-performance-study/blob/main/LICENSE)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaro-francisco-gil/)
 
 ## Description
 
@@ -13,7 +12,12 @@ The codebase performs personality analysis on team members based on communicatio
 
 ## Presentation
 
-[View PDF]('Team Performance Study - Sep 6.pdf')
+[View PDF](Team%20Performance%20Study%20-%20Sep%206.pdf)
+
+## Authors
+
+Álvaro Francisco Gil 
+[LinkedIn](https://www.linkedin.com/in/alvaro-francisco-gil/)
 
 ## Acknowledgments
 
