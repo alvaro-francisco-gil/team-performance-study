@@ -6,7 +6,7 @@
 
 ## Description
 
-The codebase performs personality analysis on team members based on communication data and audio emotion analysis to study the impact of personality types ("bee", "ant", "leech") on team success. The analysis uses WhatsApp messages and virtual MS Teams session audio to classify personality traits through a custom dictionary trained on archetypal bee/ant/leech personas from social media data. Ground truth for personality traits is gathered through surveys including FFI, Schwartz values, moral foundations, and DOSPERT risk-taking scales. The code processes data, applies natural language processing (NLP) and audio emotion analysis, and correlates team success metrics with personality types.
+The codebase performs personality analysis on team members based on communication data and audio emotion analysis to study the impact of persona types ("bee", "ant", "leech") on team success. The analysis uses WhatsApp messages and virtual MS Teams session audio to classify personality traits through a custom dictionary trained on archetypal bee/ant/leech personas from social media data. Ground truth for personality traits is gathered through surveys including FFI, Schwartz values, moral foundations, and DOSPERT risk-taking scales. The code processes data, applies natural language processing (NLP) and audio emotion analysis, and correlates team success metrics with personality types.
 
 ## Presentation
 
