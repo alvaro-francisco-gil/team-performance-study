@@ -1,7 +1,7 @@
 # team-performance-study
 *Research conducted at Universidad Politécnica de Madrid by Álvaro Francisco Gil in collaboration with MiT*
 
-This repository supports the paper [**"In progress of being written"**](https://www.mdpi.com/).
+This repository supports the paper [**"Human Ants are Beneficial for Team Performance"**](https://doi.org/10.1109/APSEC66846.2025.00080) (APSEC 2025, pp. 796–807).
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/release/python-31014/)
 [![GitHub license](https://badgen.net/github/license/alvaro-francisco-gil/team-performance-study)](https://github.com/alvaro-francisco-gil/team-performance-study/blob/main/LICENSE)
